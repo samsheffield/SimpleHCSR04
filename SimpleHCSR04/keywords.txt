@@ -1,0 +1,5 @@
+SimpleADXL335	KEYWORD1
+getInches	KEYWORD2
+getCentimeters	KEYWORD2
+getRaw	KEYWORD2
+update	KEYWORD2
